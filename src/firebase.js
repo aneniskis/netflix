@@ -8,7 +8,7 @@ import "firebase/compat/auth";
 // import auth from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBCV_aSIj0-eGqz6wLdPitEYusfegfLQF8",
+  apiKey: process.env.REACT_APP_API_KEY,
   authDomain: "netflix-60640.firebaseapp.com",
   projectId: "netflix-60640",
   storageBucket: "netflix-60640.appspot.com",

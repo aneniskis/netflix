@@ -2,6 +2,9 @@
 
 The Front end application was created inspired by the Netflix page using React.js. (Stripe Checkout and Subsciption, Redux, Firestore, Google Auth)
 
+Authentication with Firebase, Google Auth, Redux.
+Payments and Subscription - Stripe
+
 [Firebase](https://netflix-60640.firebaseapp.com/)
 
 ## Project features
